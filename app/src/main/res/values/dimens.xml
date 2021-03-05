@@ -1,0 +1,33 @@
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <integer name="anim_duration_medium">300</integer>
+    <integer name="anim_duration_long">400</integer>
+
+    <dimen name="default_spacing_small">4dp</dimen>
+
+    <dimen name="sdb_raa">15dp</dimen>
+
+    <integer name="qmui_anim_duration">300</integer>
+    <dimen name="sp_25">25dp</dimen>
+
+    <dimen name="sp_3">3dp</dimen>
+    <dimen name="sp_5">5dp</dimen>
+
+    <dimen name="sp_8">8dp</dimen>
+    <dimen name="sp_10">10dp</dimen>
+    <dimen name="sp_12">12dp</dimen>
+
+    <dimen name="sp_15">15dp</dimen>
+    <dimen name="sp_16">16dp</dimen>
+    <dimen name="sp_18">18dp</dimen>
+    <dimen name="sp_20">20sp</dimen>
+    <dimen name="sp_22">22sp</dimen>
+
+    <dimen name="sp_30">30sp</dimen>
+    <dimen name="header_shadow_size">2dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+
+
+</resources>

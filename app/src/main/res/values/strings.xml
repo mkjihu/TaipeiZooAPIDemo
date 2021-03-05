@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ZooAPIDemo</string>
+
+
+    <string name="drawer_open">Drawer Open</string>
+    <string name="drawer_close">Drawer Close</string>
+
+
+    <string name="text_script1">台北市立動物園</string>
+    <string name="text_script2">請輸入關鍵字</string>
+    <string name="text_script3">植物資料</string>
+
+    <string name="text_script4">別名</string>
+    <string name="text_script5">簡介</string>
+    <string name="text_script6">辨認方式</string>
+    <string name="text_script7">功能性</string>
+
+    <string name="text_script8">最後更新</string>
+
+</resources>
