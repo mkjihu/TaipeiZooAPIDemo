@@ -6,10 +6,10 @@
 ---
 
 1.使用框架、library：
-- okhttp、retrofit、rxjava3、eventbus、eventbus、glide
+> okhttp、retrofit、rxjava3、eventbus、eventbus、glide
 
-2.程式架構
-- 基本應該算是個人化的MVP架構(但我有用上lifecycle.ViewModel)
+2.程式架構：
+> 基本應該算是個人化的MVP架構(但我有用上lifecycle.ViewModel)
 
  #### 架構分類：
  - Interactor + ViewModel 負責API呼叫 處裡
